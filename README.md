@@ -31,16 +31,6 @@ the_links
 7-2
 7-4
 6-5
-5
-• Which corresponds to the following representation:
-_______________
-/ \
-______[5]----[3]----[1] |
-/ | / |
-[6]-----[0]----[4] / |
-\ _________/ | / |
-\ / [2]/_______/
-[7]_________/
 
 • There are two parts:
  The rooms, which are defined by: name coord_x coord_y
